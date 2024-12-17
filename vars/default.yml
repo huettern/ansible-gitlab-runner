@@ -1,1 +1,4 @@
 ---
+
+gitlab_runner_runtime_owner: gitlab-runner
+gitlab_runner_runtime_group: gitlab-runner
